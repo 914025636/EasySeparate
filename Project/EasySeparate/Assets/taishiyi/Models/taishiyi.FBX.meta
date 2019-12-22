@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 7d254dd5c50ec424fb6d1776747529a2
+timeCreated: 1576573890
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: taishiyi_a0
+    100004: taishiyi_a1
+    100006: taishiyi_a10
+    100008: taishiyi_a11
+    100010: taishiyi_a12
+    100012: taishiyi_a13
+    100014: taishiyi_a14
+    100016: taishiyi_a15
+    100018: taishiyi_a16
+    100020: taishiyi_a17
+    100022: taishiyi_a18
+    100024: taishiyi_a19
+    100026: taishiyi_a2
+    100028: taishiyi_a20
+    100030: taishiyi_a21
+    100032: taishiyi_a22
+    100034: taishiyi_a3
+    100036: taishiyi_a4
+    100038: taishiyi_a5
+    100040: taishiyi_a6
+    100042: taishiyi_a7
+    100044: taishiyi_a8
+    100046: taishiyi_a9
+    100048: taishiyi_b0
+    100050: taishiyi_b1
+    100052: taishiyi_b10
+    100054: taishiyi_b11
+    100056: taishiyi_b12
+    100058: taishiyi_b13
+    100060: taishiyi_b14
+    100062: taishiyi_b15
+    100064: taishiyi_b16
+    100066: taishiyi_b17
+    100068: taishiyi_b2
+    100070: taishiyi_b3
+    100072: taishiyi_b4
+    100074: taishiyi_b5
+    100076: taishiyi_b6
+    100078: taishiyi_b7
+    100080: taishiyi_b8
+    100082: taishiyi_b9
+    100084: yibei
+    100086: yitui
+    100088: "\u524D\u5238\u53E3\u7259\u5B50"
+    100090: "\u524D\u5238\u53E3\u7259\u5B50_collider"
+    100092: "\u524D\u5927\u8FB9"
+    100094: "\u524D\u5927\u8FB9_collider"
+    100096: "\u524D\u7259\u6761"
+    100098: "\u524D\u7259\u6761 1"
+    100100: "\u524D\u7259\u6761_collider"
+    100102: "\u524D\u7259\u6761_collider 1"
+    100104: "\u524D\u817F"
+    100106: "\u524D\u817F 1"
+    100108: "\u524D\u817F_collider"
+    100110: "\u524D\u817F_collider 1"
+    100112: "\u53F3\u4E0A\u89E6"
+    100114: "\u53F3\u4E0A\u89E6_collider"
+    100116: "\u53F3\u5238\u53E3\u7259\u5B50"
+    100118: "\u53F3\u5238\u53E3\u7259\u5B50_collider"
+    100120: "\u53F3\u5927\u8FB9"
+    100122: "\u53F3\u5927\u8FB9_collider"
+    100124: "\u53F3\u7259\u6761"
+    100126: "\u53F3\u7259\u6761_collider"
+    100128: "\u53F3\u8054\u5E2E\u63D0"
+    100130: "\u53F3\u8054\u5E2E\u63D0_collider"
+    100132: "\u53F3\u9E45\u8116"
+    100134: "\u53F3\u9E45\u8116_collider"
+    100136: "\u540E\u5238\u53E3\u7259\u5B50"
+    100138: "\u540E\u5238\u53E3\u7259\u5B50_collider"
+    100140: "\u540E\u524D\u5927\u8FB9"
+    100142: "\u540E\u524D\u5927\u8FB9_collider"
+    100144: "\u540E\u7259\u6761"
+    100146: "\u540E\u7259\u6761 1"
+    100148: "\u540E\u7259\u6761_collider"
+    100150: "\u540E\u7259\u6761_collider 1"
+    100152: "\u540E\u817F"
+    100154: "\u540E\u817F 1"
+    100156: "\u540E\u817F_collider"
+    100158: "\u540E\u817F_collider 1"
+    100160: "\u5DE6\u4E0A\u89E6"
+    100162: "\u5DE6\u4E0A\u89E6_collider"
+    100164: "\u5DE6\u5238\u53E3\u7259\u5B50"
+    100166: "\u5DE6\u5238\u53E3\u7259\u5B50_collider"
+    100168: "\u5DE6\u5927\u8FB9"
+    100170: "\u5DE6\u5927\u8FB9_collider"
+    100172: "\u5DE6\u7259\u6761"
+    100174: "\u5DE6\u7259\u6761_collider"
+    100176: "\u5DE6\u8054\u5E2E\u63D0"
+    100178: "\u5DE6\u8054\u5E2E\u63D0_collider"
+    100180: "\u5DE6\u9E45\u8116"
+    100182: "\u5DE6\u9E45\u8116_collider"
+    100184: "\u6276\u624B"
+    100186: "\u6276\u624B_collider"
+    100188: "\u6881\u6761"
+    100190: "\u6881\u6761 1"
+    100192: "\u6881\u6761 2"
+    100194: "\u6881\u6761_collider"
+    100196: "\u6881\u6761_collider 1"
+    100198: "\u6881\u6761_collider 2"
+    100200: "\u9760\u80CC\u677F"
+    100202: "\u9760\u80CC\u677F 1"
+    100204: "\u9760\u80CC\u677F 2"
+    100206: "\u9760\u80CC\u677F 3"
+    100208: "\u9760\u80CC\u677F 4"
+    100210: "\u9760\u80CC\u677F 5"
+    100212: "\u9760\u80CC\u677F 6"
+    100214: "\u9760\u80CC\u677F_collider"
+    100216: "\u9760\u80CC\u677F_collider 1"
+    100218: "\u9760\u80CC\u677F_collider 2"
+    100220: "\u9760\u80CC\u677F_collider 3"
+    100222: "\u9760\u80CC\u677F_collider 4"
+    100224: "\u9760\u80CC\u677F_collider 5"
+    100226: "\u9760\u80CC\u677F_collider 6"
+    100228: "\u9762\u5FC3"
+    100230: "\u9762\u5FC3_collider"
+    400000: //RootNode
+    400002: taishiyi_a0
+    400004: taishiyi_a1
+    400006: taishiyi_a10
+    400008: taishiyi_a11
+    400010: taishiyi_a12
+    400012: taishiyi_a13
+    400014: taishiyi_a14
+    400016: taishiyi_a15
+    400018: taishiyi_a16
+    400020: taishiyi_a17
+    400022: taishiyi_a18
+    400024: taishiyi_a19
+    400026: taishiyi_a2
+    400028: taishiyi_a20
+    400030: taishiyi_a21
+    400032: taishiyi_a22
+    400034: taishiyi_a3
+    400036: taishiyi_a4
+    400038: taishiyi_a5
+    400040: taishiyi_a6
+    400042: taishiyi_a7
+    400044: taishiyi_a8
+    400046: taishiyi_a9
+    400048: taishiyi_b0
+    400050: taishiyi_b1
+    400052: taishiyi_b10
+    400054: taishiyi_b11
+    400056: taishiyi_b12
+    400058: taishiyi_b13
+    400060: taishiyi_b14
+    400062: taishiyi_b15
+    400064: taishiyi_b16
+    400066: taishiyi_b17
+    400068: taishiyi_b2
+    400070: taishiyi_b3
+    400072: taishiyi_b4
+    400074: taishiyi_b5
+    400076: taishiyi_b6
+    400078: taishiyi_b7
+    400080: taishiyi_b8
+    400082: taishiyi_b9
+    400084: yibei
+    400086: yitui
+    400088: "\u524D\u5238\u53E3\u7259\u5B50"
+    400090: "\u524D\u5238\u53E3\u7259\u5B50_collider"
+    400092: "\u524D\u5927\u8FB9"
+    400094: "\u524D\u5927\u8FB9_collider"
+    400096: "\u524D\u7259\u6761"
+    400098: "\u524D\u7259\u6761 1"
+    400100: "\u524D\u7259\u6761_collider"
+    400102: "\u524D\u7259\u6761_collider 1"
+    400104: "\u524D\u817F"
+    400106: "\u524D\u817F 1"
+    400108: "\u524D\u817F_collider"
+    400110: "\u524D\u817F_collider 1"
+    400112: "\u53F3\u4E0A\u89E6"
+    400114: "\u53F3\u4E0A\u89E6_collider"
+    400116: "\u53F3\u5238\u53E3\u7259\u5B50"
+    400118: "\u53F3\u5238\u53E3\u7259\u5B50_collider"
+    400120: "\u53F3\u5927\u8FB9"
+    400122: "\u53F3\u5927\u8FB9_collider"
+    400124: "\u53F3\u7259\u6761"
+    400126: "\u53F3\u7259\u6761_collider"
+    400128: "\u53F3\u8054\u5E2E\u63D0"
+    400130: "\u53F3\u8054\u5E2E\u63D0_collider"
+    400132: "\u53F3\u9E45\u8116"
+    400134: "\u53F3\u9E45\u8116_collider"
+    400136: "\u540E\u5238\u53E3\u7259\u5B50"
+    400138: "\u540E\u5238\u53E3\u7259\u5B50_collider"
+    400140: "\u540E\u524D\u5927\u8FB9"
+    400142: "\u540E\u524D\u5927\u8FB9_collider"
+    400144: "\u540E\u7259\u6761"
+    400146: "\u540E\u7259\u6761 1"
+    400148: "\u540E\u7259\u6761_collider"
+    400150: "\u540E\u7259\u6761_collider 1"
+    400152: "\u540E\u817F"
+    400154: "\u540E\u817F 1"
+    400156: "\u540E\u817F_collider"
+    400158: "\u540E\u817F_collider 1"
+    400160: "\u5DE6\u4E0A\u89E6"
+    400162: "\u5DE6\u4E0A\u89E6_collider"
+    400164: "\u5DE6\u5238\u53E3\u7259\u5B50"
+    400166: "\u5DE6\u5238\u53E3\u7259\u5B50_collider"
+    400168: "\u5DE6\u5927\u8FB9"
+    400170: "\u5DE6\u5927\u8FB9_collider"
+    400172: "\u5DE6\u7259\u6761"
+    400174: "\u5DE6\u7259\u6761_collider"
+    400176: "\u5DE6\u8054\u5E2E\u63D0"
+    400178: "\u5DE6\u8054\u5E2E\u63D0_collider"
+    400180: "\u5DE6\u9E45\u8116"
+    400182: "\u5DE6\u9E45\u8116_collider"
+    400184: "\u6276\u624B"
+    400186: "\u6276\u624B_collider"
+    400188: "\u6881\u6761"
+    400190: "\u6881\u6761 1"
+    400192: "\u6881\u6761 2"
+    400194: "\u6881\u6761_collider"
+    400196: "\u6881\u6761_collider 1"
+    400198: "\u6881\u6761_collider 2"
+    400200: "\u9760\u80CC\u677F"
+    400202: "\u9760\u80CC\u677F 1"
+    400204: "\u9760\u80CC\u677F 2"
+    400206: "\u9760\u80CC\u677F 3"
+    400208: "\u9760\u80CC\u677F 4"
+    400210: "\u9760\u80CC\u677F 5"
+    400212: "\u9760\u80CC\u677F 6"
+    400214: "\u9760\u80CC\u677F_collider"
+    400216: "\u9760\u80CC\u677F_collider 1"
+    400218: "\u9760\u80CC\u677F_collider 2"
+    400220: "\u9760\u80CC\u677F_collider 3"
+    400222: "\u9760\u80CC\u677F_collider 4"
+    400224: "\u9760\u80CC\u677F_collider 5"
+    400226: "\u9760\u80CC\u677F_collider 6"
+    400228: "\u9762\u5FC3"
+    400230: "\u9762\u5FC3_collider"
+    2100000: taishiyi_id02
+    2100002: taishiyi_id01
+    2300000: taishiyi_a0
+    2300002: taishiyi_a1
+    2300004: taishiyi_a10
+    2300006: taishiyi_a11
+    2300008: taishiyi_a12
+    2300010: taishiyi_a13
+    2300012: taishiyi_a14
+    2300014: taishiyi_a15
+    2300016: taishiyi_a16
+    2300018: taishiyi_a17
+    2300020: taishiyi_a18
+    2300022: taishiyi_a19
+    2300024: taishiyi_a2
+    2300026: taishiyi_a20
+    2300028: taishiyi_a21
+    2300030: taishiyi_a22
+    2300032: taishiyi_a3
+    2300034: taishiyi_a4
+    2300036: taishiyi_a5
+    2300038: taishiyi_a6
+    2300040: taishiyi_a7
+    2300042: taishiyi_a8
+    2300044: taishiyi_a9
+    2300046: taishiyi_b0
+    2300048: taishiyi_b1
+    2300050: taishiyi_b10
+    2300052: taishiyi_b11
+    2300054: taishiyi_b12
+    2300056: taishiyi_b13
+    2300058: taishiyi_b14
+    2300060: taishiyi_b15
+    2300062: taishiyi_b16
+    2300064: taishiyi_b17
+    2300066: taishiyi_b2
+    2300068: taishiyi_b3
+    2300070: taishiyi_b4
+    2300072: taishiyi_b5
+    2300074: taishiyi_b6
+    2300076: taishiyi_b7
+    2300078: taishiyi_b8
+    2300080: taishiyi_b9
+    2300082: //RootNode
+    2300084: "\u524D\u5238\u53E3\u7259\u5B50"
+    2300086: "\u524D\u5238\u53E3\u7259\u5B50_collider"
+    2300088: "\u524D\u5927\u8FB9"
+    2300090: "\u524D\u5927\u8FB9_collider"
+    2300092: "\u524D\u7259\u6761"
+    2300094: "\u524D\u7259\u6761 1"
+    2300096: "\u524D\u7259\u6761_collider"
+    2300098: "\u524D\u7259\u6761_collider 1"
+    2300100: "\u524D\u817F"
+    2300102: "\u524D\u817F 1"
+    2300104: "\u524D\u817F_collider"
+    2300106: "\u524D\u817F_collider 1"
+    2300108: "\u53F3\u4E0A\u89E6"
+    2300110: "\u53F3\u4E0A\u89E6_collider"
+    2300112: "\u53F3\u5238\u53E3\u7259\u5B50"
+    2300114: "\u53F3\u5238\u53E3\u7259\u5B50_collider"
+    2300116: "\u53F3\u5927\u8FB9"
+    2300118: "\u53F3\u5927\u8FB9_collider"
+    2300120: "\u53F3\u7259\u6761"
+    2300122: "\u53F3\u7259\u6761_collider"
+    2300124: "\u53F3\u8054\u5E2E\u63D0"
+    2300126: "\u53F3\u8054\u5E2E\u63D0_collider"
+    2300128: "\u53F3\u9E45\u8116"
+    2300130: "\u53F3\u9E45\u8116_collider"
+    2300132: "\u540E\u5238\u53E3\u7259\u5B50"
+    2300134: "\u540E\u5238\u53E3\u7259\u5B50_collider"
+    2300136: "\u540E\u524D\u5927\u8FB9"
+    2300138: "\u540E\u524D\u5927\u8FB9_collider"
+    2300140: "\u540E\u7259\u6761"
+    2300142: "\u540E\u7259\u6761 1"
+    2300144: "\u540E\u7259\u6761_collider"
+    2300146: "\u540E\u7259\u6761_collider 1"
+    2300148: "\u540E\u817F"
+    2300150: "\u540E\u817F 1"
+    2300152: "\u540E\u817F_collider"
+    2300154: "\u540E\u817F_collider 1"
+    2300156: "\u5DE6\u4E0A\u89E6"
+    2300158: "\u5DE6\u4E0A\u89E6_collider"
+    2300160: "\u5DE6\u5238\u53E3\u7259\u5B50"
+    2300162: "\u5DE6\u5238\u53E3\u7259\u5B50_collider"
+    2300164: "\u5DE6\u5927\u8FB9"
+    2300166: "\u5DE6\u5927\u8FB9_collider"
+    2300168: "\u5DE6\u7259\u6761"
+    2300170: "\u5DE6\u7259\u6761_collider"
+    2300172: "\u5DE6\u8054\u5E2E\u63D0"
+    2300174: "\u5DE6\u8054\u5E2E\u63D0_collider"
+    2300176: "\u5DE6\u9E45\u8116"
+    2300178: "\u5DE6\u9E45\u8116_collider"
+    2300180: "\u6276\u624B"
+    2300182: "\u6276\u624B_collider"
+    2300184: "\u6881\u6761"
+    2300186: "\u6881\u6761 1"
+    2300188: "\u6881\u6761 2"
+    2300190: "\u6881\u6761_collider"
+    2300192: "\u6881\u6761_collider 1"
+    2300194: "\u6881\u6761_collider 2"
+    2300196: "\u9760\u80CC\u677F"
+    2300198: "\u9760\u80CC\u677F 1"
+    2300200: "\u9760\u80CC\u677F 2"
+    2300202: "\u9760\u80CC\u677F 3"
+    2300204: "\u9760\u80CC\u677F 4"
+    2300206: "\u9760\u80CC\u677F 5"
+    2300208: "\u9760\u80CC\u677F 6"
+    2300210: "\u9760\u80CC\u677F_collider"
+    2300212: "\u9760\u80CC\u677F_collider 1"
+    2300214: "\u9760\u80CC\u677F_collider 2"
+    2300216: "\u9760\u80CC\u677F_collider 3"
+    2300218: "\u9760\u80CC\u677F_collider 4"
+    2300220: "\u9760\u80CC\u677F_collider 5"
+    2300222: "\u9760\u80CC\u677F_collider 6"
+    2300224: "\u9762\u5FC3"
+    2300226: "\u9762\u5FC3_collider"
+    3300000: taishiyi_a0
+    3300002: taishiyi_a1
+    3300004: taishiyi_a10
+    3300006: taishiyi_a11
+    3300008: taishiyi_a12
+    3300010: taishiyi_a13
+    3300012: taishiyi_a14
+    3300014: taishiyi_a15
+    3300016: taishiyi_a16
+    3300018: taishiyi_a17
+    3300020: taishiyi_a18
+    3300022: taishiyi_a19
+    3300024: taishiyi_a2
+    3300026: taishiyi_a20
+    3300028: taishiyi_a21
+    3300030: taishiyi_a22
+    3300032: taishiyi_a3
+    3300034: taishiyi_a4
+    3300036: taishiyi_a5
+    3300038: taishiyi_a6
+    3300040: taishiyi_a7
+    3300042: taishiyi_a8
+    3300044: taishiyi_a9
+    3300046: taishiyi_b0
+    3300048: taishiyi_b1
+    3300050: taishiyi_b10
+    3300052: taishiyi_b11
+    3300054: taishiyi_b12
+    3300056: taishiyi_b13
+    3300058: taishiyi_b14
+    3300060: taishiyi_b15
+    3300062: taishiyi_b16
+    3300064: taishiyi_b17
+    3300066: taishiyi_b2
+    3300068: taishiyi_b3
+    3300070: taishiyi_b4
+    3300072: taishiyi_b5
+    3300074: taishiyi_b6
+    3300076: taishiyi_b7
+    3300078: taishiyi_b8
+    3300080: taishiyi_b9
+    3300082: //RootNode
+    3300084: "\u524D\u5238\u53E3\u7259\u5B50"
+    3300086: "\u524D\u5238\u53E3\u7259\u5B50_collider"
+    3300088: "\u524D\u5927\u8FB9"
+    3300090: "\u524D\u5927\u8FB9_collider"
+    3300092: "\u524D\u7259\u6761"
+    3300094: "\u524D\u7259\u6761 1"
+    3300096: "\u524D\u7259\u6761_collider"
+    3300098: "\u524D\u7259\u6761_collider 1"
+    3300100: "\u524D\u817F"
+    3300102: "\u524D\u817F 1"
+    3300104: "\u524D\u817F_collider"
+    3300106: "\u524D\u817F_collider 1"
+    3300108: "\u53F3\u4E0A\u89E6"
+    3300110: "\u53F3\u4E0A\u89E6_collider"
+    3300112: "\u53F3\u5238\u53E3\u7259\u5B50"
+    3300114: "\u53F3\u5238\u53E3\u7259\u5B50_collider"
+    3300116: "\u53F3\u5927\u8FB9"
+    3300118: "\u53F3\u5927\u8FB9_collider"
+    3300120: "\u53F3\u7259\u6761"
+    3300122: "\u53F3\u7259\u6761_collider"
+    3300124: "\u53F3\u8054\u5E2E\u63D0"
+    3300126: "\u53F3\u8054\u5E2E\u63D0_collider"
+    3300128: "\u53F3\u9E45\u8116"
+    3300130: "\u53F3\u9E45\u8116_collider"
+    3300132: "\u540E\u5238\u53E3\u7259\u5B50"
+    3300134: "\u540E\u5238\u53E3\u7259\u5B50_collider"
+    3300136: "\u540E\u524D\u5927\u8FB9"
+    3300138: "\u540E\u524D\u5927\u8FB9_collider"
+    3300140: "\u540E\u7259\u6761"
+    3300142: "\u540E\u7259\u6761 1"
+    3300144: "\u540E\u7259\u6761_collider"
+    3300146: "\u540E\u7259\u6761_collider 1"
+    3300148: "\u540E\u817F"
+    3300150: "\u540E\u817F 1"
+    3300152: "\u540E\u817F_collider"
+    3300154: "\u540E\u817F_collider 1"
+    3300156: "\u5DE6\u4E0A\u89E6"
+    3300158: "\u5DE6\u4E0A\u89E6_collider"
+    3300160: "\u5DE6\u5238\u53E3\u7259\u5B50"
+    3300162: "\u5DE6\u5238\u53E3\u7259\u5B50_collider"
+    3300164: "\u5DE6\u5927\u8FB9"
+    3300166: "\u5DE6\u5927\u8FB9_collider"
+    3300168: "\u5DE6\u7259\u6761"
+    3300170: "\u5DE6\u7259\u6761_collider"
+    3300172: "\u5DE6\u8054\u5E2E\u63D0"
+    3300174: "\u5DE6\u8054\u5E2E\u63D0_collider"
+    3300176: "\u5DE6\u9E45\u8116"
+    3300178: "\u5DE6\u9E45\u8116_collider"
+    3300180: "\u6276\u624B"
+    3300182: "\u6276\u624B_collider"
+    3300184: "\u6881\u6761"
+    3300186: "\u6881\u6761 1"
+    3300188: "\u6881\u6761 2"
+    3300190: "\u6881\u6761_collider"
+    3300192: "\u6881\u6761_collider 1"
+    3300194: "\u6881\u6761_collider 2"
+    3300196: "\u9760\u80CC\u677F"
+    3300198: "\u9760\u80CC\u677F 1"
+    3300200: "\u9760\u80CC\u677F 2"
+    3300202: "\u9760\u80CC\u677F 3"
+    3300204: "\u9760\u80CC\u677F 4"
+    3300206: "\u9760\u80CC\u677F 5"
+    3300208: "\u9760\u80CC\u677F 6"
+    3300210: "\u9760\u80CC\u677F_collider"
+    3300212: "\u9760\u80CC\u677F_collider 1"
+    3300214: "\u9760\u80CC\u677F_collider 2"
+    3300216: "\u9760\u80CC\u677F_collider 3"
+    3300218: "\u9760\u80CC\u677F_collider 4"
+    3300220: "\u9760\u80CC\u677F_collider 5"
+    3300222: "\u9760\u80CC\u677F_collider 6"
+    3300224: "\u9762\u5FC3"
+    3300226: "\u9762\u5FC3_collider"
+    4300000: taishiyi_b0
+    4300002: taishiyi_b1
+    4300004: taishiyi_b2
+    4300006: taishiyi_b3
+    4300008: taishiyi_b4
+    4300010: taishiyi_b5
+    4300012: taishiyi_b6
+    4300014: taishiyi_b7
+    4300016: taishiyi_b8
+    4300018: taishiyi_b9
+    4300020: taishiyi_b10
+    4300022: taishiyi_b11
+    4300024: taishiyi_b12
+    4300026: taishiyi_b13
+    4300028: taishiyi_b14
+    4300030: taishiyi_b15
+    4300032: taishiyi_b16
+    4300034: taishiyi_b17
+    4300036: taishiyi_a0
+    4300038: taishiyi_a1
+    4300040: taishiyi_a2
+    4300042: taishiyi_a3
+    4300044: taishiyi_a4
+    4300046: taishiyi_a5
+    4300048: taishiyi_a6
+    4300050: taishiyi_a7
+    4300052: taishiyi_a8
+    4300054: taishiyi_a9
+    4300056: taishiyi_a10
+    4300058: taishiyi_a11
+    4300060: taishiyi_a12
+    4300062: taishiyi_a13
+    4300064: taishiyi_a14
+    4300066: taishiyi_a15
+    4300068: taishiyi_a16
+    4300070: taishiyi_a17
+    4300072: taishiyi_a18
+    4300074: taishiyi_a19
+    4300076: taishiyi_a20
+    4300078: taishiyi_a21
+    4300080: taishiyi_a22
+    4300082: "\u540E\u524D\u5927\u8FB9"
+    4300084: "\u53F3\u5927\u8FB9"
+    4300086: "\u9760\u80CC\u677F"
+    4300088: "\u5DE6\u8054\u5E2E\u63D0"
+    4300090: "\u5DE6\u4E0A\u89E6"
+    4300092: "\u5DE6\u9E45\u8116"
+    4300094: "\u53F3\u4E0A\u89E6"
+    4300096: "\u53F3\u9E45\u8116"
+    4300098: "\u53F3\u8054\u5E2E\u63D0"
+    4300100: "\u9760\u80CC\u677F"
+    4300102: "\u524D\u5927\u8FB9"
+    4300104: "\u9760\u80CC\u677F"
+    4300106: "\u9760\u80CC\u677F"
+    4300108: "\u9760\u80CC\u677F"
+    4300110: "\u9760\u80CC\u677F"
+    4300112: "\u9760\u80CC\u677F"
+    4300114: "\u5DE6\u5927\u8FB9"
+    4300116: "\u6276\u624B"
+    4300118: "\u540E\u817F"
+    4300120: "\u540E\u817F"
+    4300122: "\u540E\u5238\u53E3\u7259\u5B50"
+    4300124: "\u540E\u7259\u6761"
+    4300126: "\u540E\u7259\u6761"
+    4300128: "\u524D\u817F"
+    4300130: "\u53F3\u7259\u6761"
+    4300132: "\u524D\u817F"
+    4300134: "\u524D\u7259\u6761"
+    4300136: "\u9762\u5FC3"
+    4300138: "\u6881\u6761"
+    4300140: "\u6881\u6761"
+    4300142: "\u53F3\u5238\u53E3\u7259\u5B50"
+    4300144: "\u5DE6\u5238\u53E3\u7259\u5B50"
+    4300146: "\u524D\u5238\u53E3\u7259\u5B50"
+    4300148: "\u5DE6\u7259\u6761"
+    4300150: "\u524D\u7259\u6761"
+    4300152: "\u6881\u6761"
+    4300154: "\u53F3\u5927\u8FB9_collider"
+    4300156: "\u540E\u5238\u53E3\u7259\u5B50_collider"
+    4300158: "\u540E\u7259\u6761_collider"
+    4300160: "\u540E\u7259\u6761_collider"
+    4300162: "\u524D\u5238\u53E3\u7259\u5B50_collider"
+    4300164: "\u524D\u7259\u6761_collider"
+    4300166: "\u524D\u7259\u6761_collider"
+    4300168: "\u53F3\u5238\u53E3\u7259\u5B50_collider"
+    4300170: "\u53F3\u7259\u6761_collider"
+    4300172: "\u53F3\u9E45\u8116_collider"
+    4300174: "\u53F3\u8054\u5E2E\u63D0_collider"
+    4300176: "\u53F3\u4E0A\u89E6_collider"
+    4300178: "\u5DE6\u5238\u53E3\u7259\u5B50_collider"
+    4300180: "\u5DE6\u7259\u6761_collider"
+    4300182: "\u5DE6\u9E45\u8116_collider"
+    4300184: "\u5DE6\u8054\u5E2E\u63D0_collider"
+    4300186: "\u5DE6\u4E0A\u89E6_collider"
+    4300188: "\u524D\u817F_collider"
+    4300190: "\u524D\u817F_collider"
+    4300192: "\u524D\u5927\u8FB9_collider"
+    4300194: "\u6881\u6761_collider"
+    4300196: "\u6881\u6761_collider"
+    4300198: "\u6881\u6761_collider"
+    4300200: "\u9762\u5FC3_collider"
+    4300202: "\u5DE6\u5927\u8FB9_collider"
+    4300204: "\u6276\u624B_collider"
+    4300206: "\u9760\u80CC\u677F_collider"
+    4300208: "\u9760\u80CC\u677F_collider"
+    4300210: "\u9760\u80CC\u677F_collider"
+    4300212: "\u9760\u80CC\u677F_collider"
+    4300214: "\u9760\u80CC\u677F_collider"
+    4300216: "\u9760\u80CC\u677F_collider"
+    4300218: "\u9760\u80CC\u677F_collider"
+    4300220: "\u540E\u524D\u5927\u8FB9_collider"
+    4300222: "\u540E\u817F_collider"
+    4300224: "\u540E\u817F_collider"
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: taishiyi_id01
+    second: {fileID: 2100000, guid: 42792b224d0782e4b95be49b3cace6ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: taishiyi_id02
+    second: {fileID: 2100000, guid: 885dac9ea3d4ceb4ca87cfc4eb12a5af, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

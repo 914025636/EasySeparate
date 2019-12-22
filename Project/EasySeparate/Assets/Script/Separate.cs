@@ -14,7 +14,7 @@ public class Separate : MonoBehaviour
 {
     [Range(0, 5)]
     [SerializeField]
-     float SeparateDis = 0;
+    float SeparateDis = 0;
     public SeparateType separateType = SeparateType.Center;
     Vector3 centerPos;
     Dictionary<Transform, SeparateData> ChildDistance_dic = new Dictionary<Transform, SeparateData>();
@@ -46,14 +46,16 @@ public class Separate : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        SetSeparateDis(SeparateDis);
+    }
+
+    public void SetSeparateDis(float dis)
+    {
+        SeparateDis = dis;
         foreach (var item in ChildDistance_dic)
         {
             item.Key.position = centerPos + item.Value.direction * (item.Value.distance + SeparateDis);
         }
-    }
-    public void SetSeparateDis(float dis)
-    {
-        SeparateDis = dis;
     }
 
     public static Vector3 GetCenter(Transform tran)
